@@ -1,0 +1,20 @@
+@scope (.button) {
+  button:scope {
+    /* Default style */
+    font-size: 1rem;
+    border-radius: 0.25rem;
+
+    &[data-size='lg'] {
+      font-size: 1.5rem;
+    }
+
+    &[data-size='sm'] {
+      font-size: 0.75rem;
+    }
+
+    &[data-danger] {
+      background-color: red;
+      color: white;
+    }
+  }
+}
