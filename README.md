@@ -13,6 +13,7 @@ This template showcases MistCSS working with [Preact](https://preactjs.com).
 Write your Preact components as `.jsx` or `.tsx` files in your project.
 
 ## Libraries
-- Preact (Compat)
-- MistCSS
-- Tailwind v3
+🚀 Astro
+⚛️ Preact (Compat)
+🌊 Tailwind v3
+🌬️ MistCSS
