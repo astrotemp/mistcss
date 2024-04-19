@@ -1,20 +1,18 @@
 @scope (.button) {
   button:scope {
     /* Default style */
-    font-size: 1rem;
-    border-radius: 0.25rem;
+    @apply text-base rounded-sm;
 
     &[data-size='lg'] {
-      font-size: 1.5rem;
+      @apply text-lg;
     }
 
     &[data-size='sm'] {
-      font-size: 0.75rem;
+      @apply text-sm;
     }
 
     &[data-danger] {
-      background-color: red;
-      color: white;
+      @apply bg-red-700 text-white;
     }
   }
 }

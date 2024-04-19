@@ -1,0 +1,5 @@
+{
+  "files.exclude": {
+    "**/*.mist.tsx": true
+  }
+}
