@@ -1,13 +1,18 @@
-# Astro + Preact Example
+# MistCSS + Preact Astro Template
 
 ```sh
-npm create astro@latest -- --template framework-preact
+npm create astro@latest -- --template astrotemp/mistcss
 ```
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/framework-preact)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/framework-preact)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/framework-preact/devcontainer.json)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/astrotemp/mistcss)
+[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/astrotemp/mistcss)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/astrotemp/mistcss)
 
-This example showcases Astro working with [Preact](https://preactjs.com).
+This template showcases MistCSS working with [Preact](https://preactjs.com).
 
 Write your Preact components as `.jsx` or `.tsx` files in your project.
+
+## Libraries
+- Preact (Compat)
+- MistCSS
+- Tailwind v3
